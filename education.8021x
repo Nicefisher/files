@@ -1,0 +1,9 @@
+[Security]
+EAP-Method=PEAP
+EAP-Identity=james.sampsonvj@stu.austinisd.org
+EAP-PEAP-Phase2-Method=MSCHAPV2
+EAP-PEAP-Phase2-Identity=S10035295
+EAP-PEAP-Phase2-Password=S061506s9
+
+[Settings]
+AutoConnect=true
